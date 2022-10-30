@@ -1,6 +1,8 @@
 # kratin
 Project for kratin about fitness and health care by prince kumar
 
+# hosted on https://princekumar-95.github.io/kratin.github.io/
+
 # Description:
   This is the static web site created for kratin which contain blogs that helps the senior adult to be healthy and fit.
   # Screen Shot:
